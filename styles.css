@@ -4,8 +4,8 @@ body {
 
 .top {
     background-color: rgb(14, 14, 43);
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 header {
@@ -53,7 +53,7 @@ h1 {
     margin-top: 0;
 }
 
-button {
+.top button {
     background-color: rgb(12, 116, 213);
     border: none;
     padding-left: 0.5cm;
@@ -137,8 +137,51 @@ blockquote {
     color: rgba(55, 55, 55, 0.74);
 }
 
-p {
+.section3 p {
     text-align: right;
     font-weight: 900;
     font-size: 20px;
+}
+
+.section4 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    background-color: rgb(12, 116, 213);
+    padding-left: 2cm;
+    padding-right: 2cm;
+    padding-bottom: 0.5cm;
+    padding-top: 0.5cm;
+    border-radius: 8px;
+    justify-content: space-between;
+}
+
+.section4 .left {
+    color: white;
+    margin: 0;
+}
+
+.section4 p {
+    margin-top: 0;
+}
+
+.section4 h5 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.section4 button {
+    border: 1px solid white;
+    color: white;
+    background-color: rgb(12, 116, 213);
+    border-radius: 8px;
+    justify-self: flex-end;
+    align-self: center;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
