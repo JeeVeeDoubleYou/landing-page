@@ -11,12 +11,17 @@ body {
 header {
     display: flex;
     flex-direction: row;
-    width: 100%;
     justify-content: space-between;
+    padding-top: 1cm;
 }
 
 .white {
     color: white;
+}
+
+header img {
+    height: 1.5cm;
+    width : 1.5cm;
 }
 
 .header_links {
@@ -48,6 +53,10 @@ a {
     margin-right : 1cm ;
 }
 
+.left p {
+    margin-left: 0;
+}
+
 h1 {
     font-size : 40px ;
     margin-top: 0;
@@ -73,9 +82,9 @@ h1 {
     margin-left: 1cm;
 }
 
-.top img {
+.section1 img {
     height: 100%;
-    width: 10cm;
+    width: 8cm;
     align-self: flex-end;
     justify-self: flex-start;
     background-color: rgb(255, 255, 255);
