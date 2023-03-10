@@ -6,4 +6,6 @@ einstein image source : https://parade.com/1240718/kelseypelzer/albert-einstein-
 
 newton image source :https://publicdomainvectors.org/fr/gratuitement-des-vecteurs/Portrait-de-Isaac-Newton/81812.html
 
-euler photo source : https://www.flickr.com/photos/jbgeekdad/2246408735 
+euler image source : https://www.flickr.com/photos/jbgeekdad/2246408735 
+
+marie curie image source : https://commons.wikimedia.org/wiki/File:Marie_Curie_Labwork.webp
