@@ -162,6 +162,7 @@ blockquote {
 .section4 .left {
     color: white;
     margin: 0;
+    flex : 8;
 }
 
 .section4 p {
@@ -184,4 +185,5 @@ blockquote {
     padding-right: 0.5cm;
     padding-top: 5px;
     padding-bottom: 5px;
+    flex : 1
 }
